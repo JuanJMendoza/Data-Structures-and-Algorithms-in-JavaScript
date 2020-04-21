@@ -1,3 +1,6 @@
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
+
 function insertionSort(arr){
   // algorithm
   // we want a pointer to keep track of the exploring pointer
