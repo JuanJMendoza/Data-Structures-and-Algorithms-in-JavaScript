@@ -1,3 +1,6 @@
+// Time Complexity: O(n^2) because we're checking each element with every other element =  n * n - 1 every iteration.
+// Space Complexity: O(1) because we're sorting inplace, and not using any auxillary space.
+
 function selectionSort(arr) {
   // Selection Sort Algorithm
   // We loop through the array and find the min value.
