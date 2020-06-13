@@ -68,3 +68,8 @@ const arr5 = [];
 console.log("Before selection sort: [" + arr5 + "]");
 selectionSort(arr5);
 console.log("After selection sort: [" + arr5 + "]\n");
+
+const arr6 = [4, 20, 12, 10, 7, 9];
+console.log("Before selection sort: [" + arr6 + "]");
+selectionSort(arr6);
+console.log("After selection sort: [" + arr6 + "]\n");
